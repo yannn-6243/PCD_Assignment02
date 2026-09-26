@@ -1,6 +1,3 @@
-**Nama:** Hadyan Althaf Baswara
-**NIM:** 25/559377/PA/23527
-
 # PCD Assignment 02 – Image Enhancement
 **Nama:** Hadyan Althaf Baswara
 **NIM:** 25/559377/PA/23527
