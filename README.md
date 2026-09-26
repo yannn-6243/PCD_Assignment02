@@ -6,7 +6,7 @@
 **NIM:** 25/559377/PA/23527
 ## Isi Repo
 - `PCD_Assignment02.ipynb` – source code
-- `Laporan_Analisis.pdf` – laporan analisis
+- `Laporan Analisis Image Enhancement_Hadyan Althaf Baswara.pdf` – laporan analisis
   
 Implementasi teknik image enhancement untuk berbagai kondisi citra menggunakan Python dan OpenCV.
 ## Metode yang Diimplementasikan
